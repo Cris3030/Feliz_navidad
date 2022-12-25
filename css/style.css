@@ -67,23 +67,20 @@ background: linear-gradient(356deg, rgba(232,101,90,1) 0%, rgba(59,190,48,1) 71%
 	}
 
 	#ballOne {
-		position: absolute;
 		top: -15px;
-		right: 30px;
+		right: 15px;
 		width: 100px;
 	}
 
 	#ballTwo {
-		position: absolute;
 		top: -15px;
-		right: 330px;
+		right: 115px;
 		width: 75px;
 	}
 
 	#ballThree {
-		position: absolute;
 		top: -18px;
-		right: 930px;
+		right: 465px;
 		width: 125px;
 	}
 }
